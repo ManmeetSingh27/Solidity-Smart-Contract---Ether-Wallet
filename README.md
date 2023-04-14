@@ -1,1 +1,1 @@
-# Solidity Smart Contract - Ether-Wallet
+# Solidity Smart Contract - Ether Wallet
